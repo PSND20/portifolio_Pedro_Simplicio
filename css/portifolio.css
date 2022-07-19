@@ -1,0 +1,221 @@
+@import url(header.css);  
+
+main{ padding: 0;
+    margin: 0;
+
+}
+
+
+
+.serviços{
+    background-color: #333333;
+    position: relative;
+    top: 49%;
+    left: 410px;
+    right: 0%;
+    width: 70vw;
+    height: 170vh;
+    z-index: 0;
+
+
+}
+
+.faço{
+    position: absolute;
+    top: 6%;
+    left: 7%;
+    right: 7%;
+    width: 13%;
+    height: 4%;
+    margin: 0px;
+    background-color: #222222;
+    padding-top: 10px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 100;
+}
+
+
+ .serviços h2 {
+    position: absolute;
+    top: 19%;
+    left: 6%;
+    right: 6%;
+    width: 23%;
+    height: 4%;
+    margin: 0px;
+    padding-top: 0px;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 500px;
+
+
+ }       
+ 
+ 
+ .habilidades{
+    display: grid;
+    grid-template-rows: 321px 321px 321px;
+    grid-template-columns: 253px 253px 253px;
+    gap: 77px;
+    position: absolute;
+    color: aqua;
+    top: 43%;
+    left: 31%;
+    right: 7%;
+    width: 23%;
+    height: 4%;
+    margin: 0px;
+    padding: 3px;
+    text-align: center;
+    font-size: 24px;
+
+
+ }
+
+ #webdesigner{
+    background-color: #222222;
+    padding: 28px;
+    font-size: 1.0rem;
+
+
+ }
+ #webdesigner h2{
+    position: relative;
+    background-color: #333333;
+    border-radius: 50%;
+    top: -7%;
+    left: -9%;
+    width: 28px;
+    height: 28px;
+    padding: 13px;
+    text-align: center;
+
+ }
+
+
+ .habilidades h4{
+    width: 200px;
+    font-size: 1.8em;
+
+
+ }
+
+
+ .habilidades p{
+    width: 207px;
+    height: 200px;
+    padding: 3px;
+    text-align: justify;
+    color: #9e9e9e;
+
+
+ }
+ #site{
+    background-color: #222222;
+    padding: 28px;
+    font-size: 1.0rem;
+
+ }
+
+ #site h2{
+
+    position: relative;
+    background-color: #333333;
+    border-radius: 50%;
+    top: -7%;
+    left: -9%;
+    width: 28px;
+    height: 28px;
+    padding: 13px;
+    text-align: center;
+ }
+ #seo{
+    background-color: #222222;
+    padding: 28px;
+    font-size: 1.0rem;
+
+ }
+
+#seo h2{
+
+    position: relative;
+    background-color: #333333;
+    border-radius: 50%;
+    top: -7%;
+    left: -9%;
+    width: 28px;
+    height: 28px;
+    padding: 13px;
+    text-align: center;
+
+    
+}
+
+
+ #landingpage{
+    background-color: #222222;
+    padding: 28px;
+    font-size: 1.0rem;
+ }
+
+#landingpage h2{
+
+    position: relative;
+    background-color: #333333;
+    border-radius: 50%;
+    top: -7%;
+    left: -9%;
+    width: 28px;
+    height: 28px;
+    padding: 13px;
+    text-align: center;
+
+
+
+
+}
+
+ #desenvolvedor{
+    background-color: #222222;
+    padding: 28px;
+    font-size: 1.0rem;
+ }
+
+
+ #desenvolvedor h2{
+
+    position: relative;
+    background-color: #333333;
+    border-radius: 50%;
+    top: -7%;
+    left: -9%;
+    width: 28px;
+    height: 28px;
+    padding: 13px;
+    text-align: center;                                                                 
+
+
+ }
+
+
+
+ #nada{
+
+    background-color: #222222;
+    padding: 28px;
+    font-size: 1.0rem;
+ }
+
+ #nada h2{
+
+    position: relative;
+    background-color: #333333;
+    border-radius: 50%;
+    top: -7%;
+    left: -9%;
+    width: 28px;
+    height: 28px;
+    padding: 13px;
+    text-align: center;  
+ }

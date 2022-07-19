@@ -1,0 +1,308 @@
+@import url(header.css);  
+
+main{ padding: 0;
+    margin: 0;
+
+}
+.sobre_mim{
+    background-color: #333333;
+    position: relative;
+    top: 49%;
+    left: 410px;
+    right: 0%;
+    width: 70vw;
+    height: 136vh;
+    z-index: 0;
+    
+   
+   
+
+
+}
+
+
+.sobre_mim h4{
+    position: absolute;
+    top: 6%;
+    left: 7%;
+    right: 7%;
+    width: 13%;
+    height: 4%;
+    margin: 0px;
+    background-color: #222222;
+    padding-top: 10px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 100;
+
+
+}
+
+a{
+    text-decoration: none;
+}
+
+
+#saiba_mais{
+    padding: 0px;
+    margin: 0px;
+    top: 14%;
+    left: 7%;
+    right: 7%;
+    position: relative;
+    font-size: 25px;
+    font-weight: 1000   ;
+    font-family:montserrat;
+
+
+
+}
+
+
+
+.sobre_mim img{
+    position: absolute;
+    top: 22%;
+    left: 31%;
+    right: 0%;
+    width: 259px;
+    height: 237px;
+    border-radius: 181%;    
+
+
+
+}
+
+
+
+
+.sobre_mim h5{
+
+    position: absolute;
+    top: 52%;
+
+    left: 11%;
+
+    right: 0%;
+    font-size: 27px;
+
+
+
+
+}
+
+#dev {
+    position: absolute;
+    top: 56%;
+    left: 11%;
+    right: 0%;
+    color: #777575;
+
+    
+}
+
+#sobre_mim {
+    position: absolute;
+    top: 66%;
+    left: 11%;
+    right: 0%;
+    width: 82%;
+    color: #777575;
+
+}
+#sobre_mim p{
+    color: #dfdfdf;
+
+}
+
+
+.dados{
+
+    background-color: #333333;
+    position: relative;
+    left: 410px;
+    width: 70vw;
+    height: 136vh;
+    z-index: 0;
+
+
+    
+}
+
+
+#dados1 h4{
+    position: relative;
+    top: 15px;
+    left: 42px;
+    margin: 21px;
+    width: 318px;
+
+
+
+}
+
+#dados2 h4{
+    position: relative;
+    top:  -431px;
+    left: 534px;
+    margin: 10px;
+    width: 318px;
+
+}
+hr{
+    margin:  50px;
+    padding: 0px;
+    background-color: #333333;
+
+}
+
+
+.dados a {
+
+    position: absolute;
+    top: 0%;
+    left: 7%;
+    right: 7%;
+    width: 26%;
+    height: 4%;
+    margin: 0px;
+    background-color: #222222;
+    padding-top: 14px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 100;
+}
+
+.skills{
+    background-color:   #222222;
+    position: relative;
+    top: 49%;
+    left: 410px;
+    right: 0%;
+    width: 70vw;
+    height: 136vh;  
+}
+
+#skills{
+
+    position: absolute;
+    top: 5%;
+    left: 11%;
+    font-size: 62px;
+
+}
+
+.skills ul{
+    position: absolute;
+    
+    font-size: 200%;
+    top: 14%;
+    left: 10%;
+
+
+}
+
+
+#linguas{
+
+    position: absolute;
+    top: 6%;
+    left: 59%;
+    font-size: 62px;
+
+
+}
+#lista_Linguas{
+    position: absolute;
+    top: 15%;
+    left: 58%;
+    font-size: 32px;
+
+}
+
+.soft_skills  {
+
+    background-color: #333333;
+    position: relative;
+    top: 49%;
+    left: 410px;
+    right: 0%;
+    width: 70vw;
+    height: 136vh;
+    z-index: 0;                 
+
+
+}
+
+.conhecimentos {
+    position: absolute;
+    top: 6%;
+    left: 9%;
+    font-size: 56px;         
+
+
+}
+
+#lista_Conhecimentos {
+    position: absolute;
+    font-size: 200%;
+    top: 14%;
+    left: 10%;
+}
+
+
+.interesses{
+    position: absolute;
+    top: 6%;
+    left: 59%;
+    font-size: 62px;
+
+
+}
+
+#lista_Interesses{
+    position: absolute;
+    top: 15%;
+    left: 58%;
+    font-size: 32px;    
+
+
+}
+
+.experiencias{
+    background-color:  #222222  ;
+    position: relative;
+    left: 410px;
+    width: 80vw;
+    height: 161vh;
+    z-index: 0;
+    font-size: 40px;
+    padding: 10px;
+         
+    
+}
+
+.experiencias h5   {
+    font-size: 44px;
+    padding: 11px;
+    color: #777575;
+
+}
+.experiencias h6{
+    font-size: 32px;
+    padding: 4px;
+    color: #6b6868;
+
+}
+
+.experiencias h4{
+    font-size: 47px;
+    padding: 16px;
+    color: #dfdfdf  ;
+
+}
+
+
+
+
+

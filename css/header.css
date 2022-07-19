@@ -1,0 +1,55 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Montserrat", Sans-serif;
+  color: rgb(255, 255, 255);
+}
+
+header {
+  background-color: #222;
+  display: flex;
+  flex-direction: column;
+  width: 30vw;
+  height: 100vh;
+  position: fixed;
+}
+
+nav ul {
+  position: fixed;
+  top: 19%;
+  left: 4%;
+  list-style: none;
+  color: #aaaaaa;
+}
+
+nav li {
+  color: #aaaaaa;
+  margin: 20px;
+}
+
+nav a {
+  text-decoration: none;
+}
+
+form {
+  position: fixed;
+  top: 62%;
+  left: 5%;
+}
+
+header h5 {
+  position: fixed;
+  top: 75%;
+  left: 5%;
+  margin: 0%;
+  color: #aaaaaa;
+}
+
+header p {
+  position: fixed;
+  top: 69%;
+  left: 5%;
+  margin: 0%;
+  width: 24%;
+  color: #aaaaaa;
+}/*# sourceMappingURL=header.css.map */

@@ -1,0 +1,145 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat", Sans-serif;
+    color: rgb(255, 255, 255);
+    
+
+}
+
+header{
+    background-color: #222222;
+    display: flex;
+    flex-direction: column;
+    width: 30vw;
+    height: 100vh;
+    position: fixed;
+    
+   
+}
+main img
+{
+    position: fixed;
+    background-color: #222;
+    top: 34%;
+    left: 36%;
+    width: 14%;
+    border-radius: 109%;
+    border-color: #222;
+
+}
+main h1{
+    position: fixed;
+    top: 35%;
+    left: 56%;
+    right: 0%;
+    width: 42%;
+    font-size: 4vw;
+    
+
+
+}
+
+main section {
+
+    position: fixed;
+    top: 49%;
+    left: 56%;
+    right: 0%;
+    width: 42%;
+    font-size: 1rem; 
+   
+
+
+}
+main p{
+
+    color: #aaaaaa;
+} 
+
+ul{
+    position: fixed;
+    top: 19%;
+    left: 4%;
+    list-style: none;
+    color: #aaaaaa;
+    
+   
+
+
+
+}
+
+li
+{
+    color: #aaaaaa;
+    margin: 20px;
+    
+  
+}
+a{
+    text-decoration: none;
+}
+
+form{
+    position: fixed;
+    top: 62%;
+    left: 5%;
+   
+
+}
+header h5
+{
+    position: fixed;
+    top: 75%;
+    left: 5%;
+    margin: 0%;
+    color: #aaaaaa;
+
+    
+}
+header p {
+
+    position: fixed;
+    top: 69%;
+    left: 5%;
+    margin: 0%;
+    width: 24%;
+    color: #aaaaaa;
+    
+
+}
+
+
+
+main{
+    background-color: #333333;
+    position: fixed;
+    flex-direction: row;
+    left: 30%;
+    width: 70vw;
+    height: 100vh;
+
+
+}
+
+
+
+
+
+.imagens_redes{
+
+        position:fixed ;
+        top: 61%;
+    left: 56%;
+    right: 0%;
+   
+}
+main svg{
+
+    position: relative;
+    width: 5%;
+  
+
+ 
+}

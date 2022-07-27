@@ -2,10 +2,10 @@
     margin: 0;
     padding: 0;
     font-family: "Montserrat", Sans-serif;
-    color: rgb(255, 255, 255);
     
 
 }
+
 
 header{
     background-color: #222222;
@@ -142,4 +142,73 @@ main svg{
   
 
  
+}
+
+
+
+@media (min-width:320px) and (max-width:768px) {
+
+
+    header .nav_Mobile{
+        display: flex;
+        position: fixed;
+        z-index: 1;
+        width: 30%;
+
+
+
+    }
+
+
+    main {
+
+        background-color: #333333;
+        position: fixed;
+        flex-direction: row;
+        left: 0%;
+        width: 101vw;
+        height: 100vh;
+    
+      }
+
+
+      
+      main img {
+        min-width: 35%;
+        display: flex;
+        position: relative;
+        left: 11%;
+      }
+
+
+      main h1{
+
+
+
+      }
+      main p{
+        text-align:left;
+        position: relative;
+ 
+      }
+    
+
+
+      main section{
+        position: relative;
+        display: flex;
+        top: 36%;
+        left: 8%;
+        right: 0%;
+        width: 86%;
+        font-size: 1rem;
+       
+      }
+      
+      .imagens_redes{
+        position: relative;
+        top: 40%;
+        left: 36%;
+        right: 0%;
+    }
 }
